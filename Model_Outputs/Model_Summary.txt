@@ -1,0 +1,8 @@
+CodeAlpha Task 4 - Sales Prediction
+Selected model: Random Forest Regressor
+Training records: 160
+Testing records: 40
+
+                  Model      MAE     RMSE  R2_Score
+Random Forest Regressor 0.621000 0.748718  0.982240
+      Linear Regression 1.460757 1.781600  0.899438
